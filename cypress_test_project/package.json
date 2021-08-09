@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chrome": "^0.1.0"
+  },
+  "devDependencies": {
+    "cypress": "^8.2.0",
+    "faker": "^5.5.3"
+  }
+}
